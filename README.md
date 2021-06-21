@@ -6,4 +6,4 @@ By now, some of them are approximative, therefore, you are welcome to leave comm
 All those files are readable by QGIS. https://qgis.org/en/site/forusers/download.html
 Download a folder in this repository and drag the .shp file to the main layer panel on the left hand side of QGIS.
 They are based on the WGS84 system.
-You may have to change the global CRS (coordinate reference system) of your project. (bottom right)
+You may have to change the global CRS (coordinate reference system) of your project.
